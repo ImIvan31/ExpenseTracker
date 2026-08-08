@@ -1,6 +1,8 @@
 Expense Tracker (Java Console Application)
+
 Description
-This is a simple Expense Tracker I built using Java. The program allows users to manage their expenses by setting a budget, adding expenses, searching for expenses, and tracking whether they are over or under their budget.
+This is a simple Expense Tracker I built using Java.
+The program allows users to manage their expenses by setting a budget, adding expenses, searching for expenses, and tracking whether they are over or under their budget.
 
 This project was created to practice:
 
@@ -11,8 +13,8 @@ Methods
 Loops and Conditional Statements
 Input Validation
 Console Application Design
-#Features
 
+#Features
 Set a budget
 Add multiple expenses
 Track remaining budget
@@ -37,7 +39,6 @@ Run the program:
 java expenseTracker
 
 #Example Menu
-
 1 - Track Expense 2 - Show All Expenses 3 - Search Expense 4 - Delete Expense 5 - Show Recent Expenses 6 - Exit
 
 #What I Learned when creating this project:
