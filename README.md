@@ -23,18 +23,19 @@ Show the 10 most recent expenses
 Search expenses by name
 Delete expenses
 Input validation for user inputs
-#Technologies Used
 
+
+#Technologies Used
 Java
 ArrayList
 Scanner Class
 Object-Oriented Programming
+
+
 #How to Run
 
 Download or clone the repository.
-
 Compile the Java files: javac Expense.java javac expenseTracker.java
-
 Run the program:
 java expenseTracker
 
